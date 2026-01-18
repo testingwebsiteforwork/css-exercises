@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+p {
+    background-color:lightpink;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#text1 {
+    color:blue;
+    font-size: 36px;
+}
+
+#text2 {
+    background-color:lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.cool {
+    font-size: 24px;
+}
